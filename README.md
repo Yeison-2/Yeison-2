@@ -1,4 +1,14 @@
-#  Hola👋
+# `Hola - Hi` 👋 
+
+Me llamo `Yeison Romero`, estudiante de sexto semestre de Ingeniería de Sistemas.
+Los lenguajes y tecnologías que me gustan son:
+
+- [x] Java
+- [x] python
+- [x] Git
+- [x] Scrum
+- [x] Aplicaciones móviles con Java
+
 ![image](https://github.com/user-attachments/assets/c0769ef3-22ea-4b42-83c9-66d736e1cc68)
 
 <!--
