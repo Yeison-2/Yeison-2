@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- Soy un <b>Full Stack Developer</b> apasionado basado en Tunja, Colombia, especializado en construir soluciones completas desde el backend hasta la experiencia del usuario. Mi fortaleza radica en <b>arquitectura de software escalable</b>, <b>sistemas distribuidos</b> y <b>aplicaciones móviles nativas</b> con Kotlin.
+ Soy un <b>Full Stack Developer</b> apasionado basado en Bogotá, Colombia, especializado en construir soluciones completas desde el backend hasta la experiencia del usuario. Mi fortaleza radica en <b>arquitectura de software escalable</b>, <b>sistemas distribuidos</b> y <b>aplicaciones móviles nativas</b> con Kotlin.
  <br/><br/>
  🔭 <b>Enfoque Actual:</b> Arquitecto soluciones end-to-end usando Spring Boot + Android/Jetpack Compose.<br/>
  ⚡ <b>Especialidad:</b> Diseño de sistemas offline-first, APIs REST, persistencia transaccional y experiencias de usuario accesibles.<br/>
