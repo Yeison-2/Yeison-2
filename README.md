@@ -15,7 +15,7 @@
 <h2 align="center">👨‍💻 Acerca de Mí</h2>
 
 <p align="center">
-  <b>Full Stack Developer | Kotlin & Java Specialist | CSM | Tech Educator</b>
+  <b>Full Stack Developer | Kotlin & Java</b>
 </p>
 
 <p align="center">
