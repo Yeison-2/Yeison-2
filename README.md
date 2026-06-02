@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=ZyrDev&fontSize=90&fontColor=3DDC84&animation=fadeIn&fontAlignY=30&desc=Native%20Android%20Experiences&descAlignY=55&descAlign=50" alt="ZyrDev Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=ZyrDev&fontSize=90&fontColor=3DDC84&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20Android&descAlignY=55&descAlign=50" alt="ZyrDev Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,91 +12,148 @@
 
 <br />
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 Acerca de Mí</h2>
 
 <p align="center">
-  <b>Android Developer | Certified Scrum Master | Tech Educator</b>
+  <b>Full Stack Developer | Kotlin & Java Specialist | CSM | Tech Educator</b>
 </p>
 
 <p align="center">
- I am a passionate <b>Android Developer</b> based in Tunja, Colombia, specializing in <b>Kotlin</b> and the modern Android ecosystem (Jetpack Compose). I bridge the gap between complex code and user needs, with a strong focus on <b>Offline-First Architecture</b> and accessible design.
+ Soy un <b>Full Stack Developer</b> apasionado basado en Tunja, Colombia, especializado en construir soluciones completas desde el backend hasta la experiencia del usuario. Mi fortaleza radica en <b>arquitectura de software escalable</b>, <b>sistemas distribuidos</b> y <b>aplicaciones móviles nativas</b> con Kotlin.
  <br/><br/>
- 🔭 <b>Current Focus:</b> Building <i>Gestión Café</i>, a native agro-industrial app using MVVM & Room Database.<br/>
- ⚡ <b>Soft Power:</b> I have extensive experience translating technical concepts to non-tech users through digital literacy teaching.
+ 🔭 <b>Enfoque Actual:</b> Arquitecto soluciones end-to-end usando Spring Boot + Android/Jetpack Compose.<br/>
+ ⚡ <b>Especialidad:</b> Diseño de sistemas offline-first, APIs REST, persistencia transaccional y experiencias de usuario accesibles.<br/>
+ 🌾 <b>Pasión:</b> Tecnología que transforma el sector agro-industrial en comunidades rurales de Latinoamérica.
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Stack Tecnológico
 
 <div align="center">
 
-| **Mobile Development** | **Backend & Databases** | **Tools, Cloud & Agile** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java" width="140" /> | <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,spring" width="150" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux" width="170" /> |
-| Jetpack Compose · XML · MVVM | REST APIs · Room DB · SQL | Scrum · Git Flow · Clean Architecture |
-
-</div>
-
----
-
-<h2 align="center">🚀 Featured Project: Gestión Café</h2>
-
-> *An offline-first native application designed to digitize manual processes for the agro-industrial sector in rural Colombia.*
-
-| 📱 **Feature** | 🔧 **Tech Stack** |
-| :--- | :--- |
-| **Offline Capability** | Room Database (Local Persistence) |
-| **Modern UI** | Jetpack Compose + Material Design 3 |
-| **Architecture** | MVVM (Model-View-ViewModel) |
-| **Connectivity** | Retrofit for Syncing |
-
----
-
-**Key Features:**
-- 📊 Real-time crop tracking and management
-- 🌱 Harvest planning and optimization
-- 📈 Analytics dashboard for productivity insights
-- 🔄 Seamless online/offline data synchronization
-
----
-
-## 🤝 How I Can Help You
-
-- 🏗️ **Architecture Consulting**: Need to build an offline-first Android app? Let's architect it right
-- 🎨 **Compose UI/UX**: Crafting beautiful, performant interfaces with Jetpack Compose
-- 🌾 **Agro-tech Solutions**: Passionate about technology that empowers rural communities
-- 📱 **Code Reviews**: Fresh eyes on your Android codebase with constructive feedback
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-| 💼 Portfolio | 📝 LinkedIn | 📧 Email | 💬 Open For |
+| **Backend & APIs** | **Mobile Development** | **Datos & Infraestructura** | **Herramientas & Metodología** |
 |:---:|:---:|:---:|:---:|
-| [zyrdev.netlify.app](https://zyrdev.netlify.app/) | [linkedin.com/in/zyrdev](https://linkedin.com/in/zyrdev) | ysromero@jdc.edu.co | Freelance • Open Source • Mentorship |
-
-**⚡ Response time:** Usually within 24 hours  
-**🌍 Time zone:** COT (GMT-5)
+| <img src="https://skillicons.dev/icons?i=java,spring,maven" width="140" /> | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" width="130" /> | <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" width="150" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux" width="170" /> |
+| Spring Boot · REST APIs · Hibernate | Jetpack Compose · MVVM · Room DB | PostgreSQL · SQL · JPA | Git Flow · Scrum · Clean Architecture |
 
 </div>
 
-**💬 Ask me about:** Kotlin • Jetpack Compose • Room Database • Offline-first architecture • Material Design 3 • MVVM
+---
 
+## 🚀 Proyectos Destacados
 
+### 1️⃣ **SAFC - Sistema de Administración de Fincas Cafeteras**
+> *Plataforma completa mobile-first para digitalizar procesos agro-industriales*
+
+**Stack:** `Kotlin` • `Jetpack Compose` • `Room Database` • `MVVM` • `Coroutines` • `JavaMail`
+
+**Capacidades demostradas:**
+- 📱 Interfaz moderna y responsiva con Jetpack Compose
+- 💾 Arquitectura offline-first garantizando funcionamiento sin internet
+- 👥 Gestión de empleados, control de producción y liquidación de pagos
+- 📊 Cálculo automático de salarios basado en producción
+- 📧 Sistema de notificaciones por email integrado
+- 🏗️ Patrón MVVM con separación clara de responsabilidades
+
+[📖 Ver repositorio](https://github.com/Yeison-2/SAFC)
+
+---
+
+### 2️⃣ **Dashboard de Inversiones - Web 2026-i**
+> *Sistema integral de gestión de proyectos e inversiones empresariales*
+
+**Stack:** `Spring Boot 4.0.2` • `PostgreSQL` • `Spring Security` • `Thymeleaf` • `JPA/Hibernate` • `PDFBox` • `JFreeChart`
+
+**Capacidades demostradas:**
+- 🔐 Autenticación y autorización con control de acceso basado en roles (RBAC)
+- 📊 Dashboard ejecutivo con visualización de datos en tiempo real
+- 📈 Gráficas interactivas usando JFreeChart
+- 🔍 Filtros avanzados por municipio, sectorial y estado de proyecto
+- 📑 Generación de reportes en PDF con PDFBox
+- 📧 Sistema de notificaciones por email según rol de usuario
+- 🛡️ Control de acceso multinivel y aislamiento de datos por sectorial
+- ✅ Validaciones transaccionales y manejo de excepciones
+
+[📖 Ver repositorio](https://github.com/Yeison-2/Dashboard_de_inversiones)
+
+---
+
+### 3️⃣ **SimpleRest - Android Connection API REST**
+> *Demostración de arquitectura Android moderna para consumo de APIs*
+
+**Stack:** `Kotlin` • `Jetpack Compose` • `Room Database` • `Retrofit` • `Hilt/Dagger` • `Coroutines`
+
+**Capacidades demostradas:**
+- 🌐 Consumo de APIs REST con manejo robusto de errores
+- 💾 Persistencia de datos local con SQLite/Room
+- 🎨 UI declarativa con Jetpack Compose
+- 🔄 Inyección de dependencias con Hilt
+- ⚙️ Programación reactiva con Coroutines y LiveData
+- 📱 Patrón MVVM en aplicaciones Android modernas
+
+[📖 Ver repositorio](https://github.com/Yeison-2/Android-connection-API-REST-randomuser)
+
+---
+
+## 🎯 Competencias Clave
+
+### Backend & Arquitectura
+- ✅ **Spring Boot:** REST APIs, Spring Security, JPA/Hibernate, manejo transaccional
+- ✅ **Bases de Datos:** Diseño relacional, SQL avanzado, migraciones, optimización de queries
+- ✅ **Patrones de Diseño:** MVC, MVVM, Clean Architecture, Inyección de Dependencias
+- ✅ **Seguridad:** Autenticación/Autorización, RBAC, validación de datos, protección CSRF
+
+### Mobile & UI
+- ✅ **Android Nativo:** Kotlin, Jetpack Compose, XML layouts, Navigation
+- ✅ **Persistencia:** Room Database, SQLite, sincronización offline-to-online
+- ✅ **Arquitectura Mobile:** MVVM, ViewModel, LiveData, StateFlow
+
+### DevOps & Herramientas
+- ✅ **Control de Versiones:** Git, GitHub, Git Flow
+- ✅ **Testing:** JUnit 5, Spring Security Test, pruebas unitarias
+- ✅ **Build Tools:** Maven, Gradle
+- ✅ **Metodología:** Scrum, Agile
+
+---
+
+## 🌐 Cómo Puedo Ayudarte
+
+| Área | Descripción |
+|------|-------------|
+| 🏗️ **Arquitectura Full Stack** | Diseñar soluciones completas backend + mobile, desde base de datos hasta UI |
+| 🚀 **APIs REST Robustas** | Desarrollar APIs escalables con Spring Boot, validaciones y seguridad |
+| 📱 **Apps Android Modernas** | Implementar interfaces nativas con Jetpack Compose, MVVM y offline-first |
+| 💾 **Persistencia de Datos** | Diseñar estrategias de almacenamiento local y sincronización en cloud |
+| 🔄 **Integración Backend-Mobile** | Conectar aplicaciones Android con APIs REST sin problemas |
+| 📊 **Dashboards & Reportes** | Construir interfaces analíticas con visualización de datos |
+| 🧹 **Code Reviews** | Feedback constructivo en arquitectura, patrones y buenas prácticas |
+
+---
+
+## 📈 Estadísticas de Desarrollo
+
+- 📱 **3+ proyectos Android** con arquitectura moderna (MVVM + Compose)
+- 🖥️ **3+ proyectos Backend** con Spring Boot y bases de datos relacionales
+- 🎓 **Experiencia académica y profesional** en ingeniería de software
+- 🛠️ **Full stack:** Desde base de datos SQL hasta interfaz de usuario
+- 🌾 **Dominio vertical:** Soluciones agro-industriales y gestión empresarial
+
+---
+
+## 🌐 Conectemos
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+| 💼 Portafolio | 📝 LinkedIn | 📧 Email | 🤝 Disponible Para |
+|:---:|:---:|:---:|:---:|
+| [zyrdev.netlify.app](https://zyrdev.netlify.app/) | [linkedin.com/in/zyrdev](https://linkedin.com/in/zyrdev) | ysromero@jdc.edu.co | Proyectos Remotos • Full Time • Freelance • Open Source |
+
+**⚡ Tiempo de respuesta:** Generalmente dentro de 24 horas  
+**🌍 Zona horaria:** COT (GMT-5) | 🇨🇴 Tunja, Colombia
+
 </div>
 
-<div align="center">
-  <h3>✨ Keep building, keep shipping, keep growing ✨</h3>
-  <p><i>"Code is poetry written for machines, but crafted for humans"</i></p>
-  
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" width="100%"/>
-</div>
+## 💬 Pregúntame Sobre
